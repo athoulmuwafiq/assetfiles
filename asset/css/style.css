@@ -660,12 +660,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	color: #e22d30;
 }
 
-.content a:hover,
+/* .content a:hover,
 .warning a:hover,
 .authorbox__description a:hover {
 	color: #e22d30;
 	text-decoration: underline;
-}
+} */
 
 .content .alignnone {
 	display: block;
